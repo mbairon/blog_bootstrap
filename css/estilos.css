@@ -1,0 +1,57 @@
+
+.row-header {
+  padding: 10px;
+  background: green;
+}
+
+.row-buscador {
+  padding: 2%;
+}
+
+.row-buscador1 {
+  padding: 2%;
+}
+
+.row-buscador2 {
+  padding: 2%;
+}
+
+.logo-img {
+  width: 150px;
+}
+
+.logo-persona {
+  width: 100%;
+  padding: 15%;
+}
+
+.redes-sociales {
+  padding-top: 100px;
+}
+
+.menu-column {
+  padding: 10px;
+}
+
+.beatles-img {
+  width: 100%;
+}
+
+.contenido-img {
+  padding: 5%;
+}
+
+.contenido-texto {
+  padding: 5%;
+}
+
+.contenido-form {
+  padding: 3%;
+}
+
+@media (max-width: 770px) {
+  .redes-sociales {
+    text-align: center;
+    padding-top: 0px;
+  }
+}
